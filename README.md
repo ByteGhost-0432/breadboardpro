@@ -56,6 +56,36 @@ Coming soon.
 
 ---
 
+## Start Here — Level 0: The Vault
+
+Cybersecurity built from the ground up.
+
+Before you buy a phone or a computer — stop. Without a backup and recovery plan, you are one accident away from losing your photos, files, and logins. Phones get stolen. Drives fail. Accounts get locked.
+
+Most people skip this step. Do not skip this step.
+
+**The 3-2-1-1-0 Backup Rule:**
+- 3 copies of your data
+- 2 different storage types (local + external)
+- 1 copy offsite
+- 1 immutable copy (air-gapped or locked — ransomware cannot touch it)
+- 0 recovery errors — test your restore monthly, prove you can actually get back
+
+**Privacy first** — redact personal and client information before sharing screenshots or logs.
+
+Next: Layer 1 — how signals and data move, where systems fail, and how to defend them step by step.
+
+Before firewalls and passwords — there was a signal traveling through a single exposed wire.
+
+---
+
+## References & Credits
+
+- **Peter Krogh** — 3-2-1 Backup Rule, originally published in *The DAM Book: Digital Asset Management for Photographers* (2005). Adopted as standard by CISA and NIST.
+- **3-2-1-1-0 evolution** — industry advancement driven by ransomware threats, promoted by Datto, Veeam, and Commvault. Immutable and air-gapped backup standards referenced in NIST SP 800-53.
+
+---
+
 Still learning. Always will be.
 
 — Lawrence Eubanks III | ByteGhost-0432
